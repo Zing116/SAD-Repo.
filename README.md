@@ -14,6 +14,7 @@ https://gitmind.com/app/docs/mrcwbms6
 * Figma : https://ntnuwebdesign.notion.site/111-071efabb7f49455a9aa3dd387bb37cbb
 ### 智能合約開發
 * Solidity : https://www.youtube.com/watch?v=Hag8dJ8_8Ao&list=PLbixLpKtETtGeqfQtRiewtBVjcYbOsX1g&index=2
+https://www.youtube.com/watch?v=BeBVLJOqwaY&list=PLgunaBSF2yaadDW0UwTCgwT_mBL35lRiq
 ### 智能合約開發工具  
 * Remix 
 * Truffle 
