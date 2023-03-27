@@ -6,6 +6,7 @@
 https://gitmind.com/app/docs/mrcwbms6
 ## 時程規劃表  
 ### 前端
+* 複習html和css
 * jQuery : hahow課程第8章  
 * Bootstrap : hahow課程第9章  
 * Vue.js : hahow課程第11章    
@@ -14,9 +15,9 @@ https://gitmind.com/app/docs/mrcwbms6
 ### 智能合約開發
 * Solidity : https://www.youtube.com/watch?v=Hag8dJ8_8Ao&list=PLbixLpKtETtGeqfQtRiewtBVjcYbOsX1g&index=2
 ### 智能合約開發工具  
-* Remix : 
-* Truffle : 
-* Embark : 
+* Remix 
+* Truffle 
+* Embark 
 ### 區塊鏈技術
 * 去中心化應用（DApp） : https://www.youtube.com/watch?v=P22ACBog-Nc
 ## 學習管道與工具
