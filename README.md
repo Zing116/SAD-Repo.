@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=BeBVLJOqwaY&list=PLgunaBSF2yaadDW0UwTCgwT_mBL35l
 * Embark 
 ### 區塊鏈技術
 * 去中心化應用（DApp） : https://www.youtube.com/watch?v=P22ACBog-Nc
-* Hardhat : https://hardhat.org/tutorial
+* Hardhat : https://hardhat.org/tutorial + 老師yt影片
 ## 學習管道與工具
 ### [hahow](https://hahow.in/courses/56189df9df7b3d0b005c6639/main?item=5a1e1745a2c4b000589dd230)
 ### [W3school](https://www.w3schools.com/html/default.asp)
