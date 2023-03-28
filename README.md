@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=BeBVLJOqwaY&list=PLgunaBSF2yaadDW0UwTCgwT_mBL35l
 ### [notion](https://www.notion.so/Web3-b512a4e21d47476b8d37563e82675a02?pvs=4)
 ### [Figma](https://www.figma.com/file/kp97H63roxSzdFxa725CIU/%E7%A7%91%E6%8A%80%E7%B3%BB(%E4%B8%89)%2F%E9%BE%94%E5%A7%BF%E7%A9%8E?node-id=0%3A1&t=Bfzd7RprOh3cK0bg-1)
 ## 作業區  
-### 影片1  
+### [影片1](https://www.youtube.com/watch?v=yv12R2X_ijU)  
 ### 影片2  
 ### 影片3  
 ### 影片4  
